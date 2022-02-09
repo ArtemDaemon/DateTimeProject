@@ -3,7 +3,7 @@
 A project for a university test on using Python classes.
 There are two classes here: a class for storing Date/Time and a container class for the previous one.
 
-Class Date/Time:
+Class Date/Time:/n
 -Two constructors: from a dictionary or from a string (by mask);
 -Change data via Getter/Setter;
 -Save and load to/from JSON.
